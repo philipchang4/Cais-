@@ -1,1 +1,1 @@
-# Cais-
+# Cais- Google Colab Files for Cais++ Fall 2020 curriculum, learning about artificial intelligence, machine learning, etc. and how to apply different algorihtms within different frameworks like keras, scitkit-learn, etc. 
